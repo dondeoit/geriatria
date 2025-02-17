@@ -45,7 +45,7 @@ perguntas_pesos = [
 	("Recebe visitas (ou faz saídas) regulares de amigos ou familiares?", 1),
 	("Mora junto de familiares (esposa, filhos, parentes)?", 1),
 	("Mora numa casa adaptada (banheiro, corrimão, luz de emergência)?", 1),
-	("Pratica regularmente exercícios físicos (caminhada, academias, fisioterapia)?" 1),
+	("Pratica regularmente exercícios físicos (caminhada, academias, fisioterapia)?", 1),
 ]
 
 # Interface do Usuário
