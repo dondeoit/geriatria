@@ -82,7 +82,7 @@ perguntas_pesos = [
 ]
 
 # Título e subtítulo
-st.title("👵👴 CALCULADORA DE DECLÍNIO E RISCO CLÍNICO/FUNCIONAL")
+st.markdown("<h2 style='text-align: left;'>👵👴 CALCULADORA DE DECLÍNIO E RISCO CLÍNICO/FUNCIONAL</h2>", unsafe_allow_html=True)
 st.write("**Responda 'Sim' ou 'Não' para cada pergunta abaixo.**")
 
 score = 0
